@@ -1,0 +1,34 @@
+{
+    "name" : "FARMXB2C-DEV",
+    "url" : "stage-portal.farmxb2c.com/",
+    "api-token":"SECRET",
+    "PORT": 8080,
+    "database" : {
+        "mongodb":{
+            "host":"localhost",
+            "db_name":"retaildb",
+            "port":"27017"
+        }
+    },
+    "emailConfig" : {
+        "provider" : "gmail",
+        "email" : "",
+        "password" : ""
+    },
+    "smsConfig" :{
+        "api_key": "A6vGXNSCUpganjEtfbscrV9W2DwYo0TBemKxZ7dPR13uiklLFHOVIRZYz1EeXBf2Pw7p3qhMD0Gbrukm",
+        "sender_id": "EFARMX",
+        "host": "https://www.fast2sms.com",
+        "sendSMSPath": "/dev/bulk"
+    },
+    "AWS" :{
+        "S3"    :{
+            "AWS_IAM_USER_KEY"      :"",
+            "AWS_IAM_USER_SECRET"   :"",
+            "AWS_BUCKET_NAME"       :"",
+            "REGION":"us-east-1"
+        }
+    },
+    "bdpassword":"",
+    "image-max-size":50000000
+}

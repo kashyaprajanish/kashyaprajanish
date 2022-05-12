@@ -1,0 +1,7 @@
+{
+    "name":"retail-default",
+    "repo":"git@bitbucket.org:farmxtech/retailapi.git",
+    "repoName":"RetailApi",
+    "publicVapidKey":"BPyd4Xd3BSiSIuNHnmq519yZyfBKsmtgbWcGDjc_CUcFofhfzDsxDWrfHxVYLZYyE5Xvk70j6bcmqCWIkDy9Zi0",
+    "privateVapidKey":"mxgDH2AgXNhuc0vwhERulMCAsqJEL6Uy2dZ3PA2VFNU"
+}
